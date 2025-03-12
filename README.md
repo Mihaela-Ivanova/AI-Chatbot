@@ -3,7 +3,7 @@
 # 🎯 Overview 
 
  - ☑️ Understand basic programming concepts: loops, functions, and conditional statements.
- - Working with data structures: Lists and dictionaries for chatbot responses.
+ - ☑️ Working with data structures: Lists and dictionaries for chatbot responses.
  - Improving string manipulation skills: Effectively handling user input.
  - Improving debugging skills: Test responses for different user inputs.
  - Using modular programming: Write reusable and structured functions.
