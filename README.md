@@ -6,7 +6,7 @@
  - ☑️ Working with data structures: Lists and dictionaries for chatbot responses.
  - ☑️ Improving string manipulation skills: Effectively handling user input.
  - ☑️ Improving debugging skills: Test responses for different user inputs.
- - ☑️Using modular programming: Write reusable and structured functions.
+ - ☑️ Using modular programming: Write reusable and structured functions.
 
 # Build the Chatbot's Core
  ⚒️ Features:
