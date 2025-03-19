@@ -1,6 +1,6 @@
 # 💬 AI-Chatbot 
 
-# 🎯 Overview ☑️
+# 🎯 Overview 
 
  - ☑️ Understand basic programming concepts: loops, functions, and conditional statements.
  - ☑️ Working with data structures: Lists and dictionaries for chatbot responses.
