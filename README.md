@@ -8,6 +8,10 @@
  - ☑️ Improving debugging skills: Test responses for different user inputs.
  - ☑️ Using modular programming: Write reusable and structured functions.
 
+
+
+
+
 # Build the Chatbot's Core
  ⚒️ Features:
    
