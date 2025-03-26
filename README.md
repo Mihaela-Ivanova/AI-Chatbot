@@ -17,7 +17,7 @@
  - ✅ Learning Mode – The bot can store new responses.
  - ✅ Exit Option – Users can type "bye" to exit.
 
- - 💬
+
 
 
 
